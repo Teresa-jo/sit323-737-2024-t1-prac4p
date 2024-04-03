@@ -23,7 +23,7 @@ Install Node.js if you haven't already.
 Clone this repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/calculator-microservice.git
+git clone git@github.com:Teresa-jo/sit323-737-2024-t1-prac4p.git
 Navigate to the project directory:
 bash
 Copy code
