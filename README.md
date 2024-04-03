@@ -4,14 +4,14 @@ This repository contains a simple calculator microservice built using Node.js an
 
 Table of Contents
 
-Introduction
-Setup
-API Endpoints
-Error Handling
-Logging
-Deployment
-Conclusion
-Introduction
+1, Introduction
+2, Setup
+3, API Endpoints
+4, Error Handling
+5, Logging
+6, Deployment
+7, Conclusion
+8, Introduction
 
 The aim of this project is to create a microservice offering basic calculator functionality to clients. The microservice handles incoming requests and executes fundamental arithmetic operations (addition, subtraction, multiplication, division) on provided input numbers.
 
